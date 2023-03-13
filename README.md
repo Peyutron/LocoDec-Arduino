@@ -4,5 +4,6 @@ Arduino DCC Locomotive decoder
   <li>Avance</li>
   <li>Retroceso</li>
   <li>Luces en sentido de la marcha (ampliable)</li>
-</ul>  
+</ul>
+
 ![alt Arduino DCC LocoDec](https://github.com/Peyutron/LocoDec-Arduino/blob/main/Images/LocoDecoderArduino.png)
