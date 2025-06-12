@@ -18,7 +18,7 @@ Más información sobre el proyecto en <a href=http://lamaquetade.infotronikblog
 <div align="center">
       <a href="https://youtu.be/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL">
      <img 
-      src="https://img.youtube.com/vi/ooJZkSX5WeKtXMtL/0.jpg" 
+      src="https://img.youtube.com/vi/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
