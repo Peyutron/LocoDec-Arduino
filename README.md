@@ -8,6 +8,8 @@ Arduino DCC Locomotive decoder
 
 Más información sobre el proyecto en <a href=http://lamaquetade.infotronikblog.com/digitalizando-333-electrotren-con-locodec-dcc.html>Digitalizando 333 electrotren con Locodec DCC</a>
 
+Youtube: <a href=https://youtu.be/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL> Arduino Decoder DCC Locomotive</a>
+
 
 ![alt Arduino DCC LocoDec](https://github.com/Peyutron/LocoDec-Arduino/blob/main/Images/LocoDecoderArduino.png)
 
@@ -15,11 +17,4 @@ Más información sobre el proyecto en <a href=http://lamaquetade.infotronikblog
 
 ![alt Arduino DCC LocoDec](https://github.com/Peyutron/LocoDec-Arduino/blob/main/Images/LocoDec_333_Electrotren_digitalizar_02.jpg)
 
-<div align="center">
-      <a href="https://youtu.be/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL">
-     <img 
-      src="https://img.youtube.com/vi/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
+
