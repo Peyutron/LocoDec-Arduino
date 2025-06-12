@@ -16,9 +16,9 @@ Más información sobre el proyecto en <a href=http://lamaquetade.infotronikblog
 ![alt Arduino DCC LocoDec](https://github.com/Peyutron/LocoDec-Arduino/blob/main/Images/LocoDec_333_Electrotren_digitalizar_02.jpg)
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+      <a href="https://youtu.be/17oz-4MKG7w?si=ooJZkSX5WeKtXMtL">
      <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      src="https://img.youtube.com/vi/ooJZkSX5WeKtXMtL/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
